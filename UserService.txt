@@ -1,3 +1,5 @@
 Get the user data 
 Second Line
 Process the data
+
+create an avatar for user
